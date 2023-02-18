@@ -99,7 +99,7 @@ const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage }: Props) => {
               setSelectedPage={setSelectedPage}
             />
           </div>
-          <div className="mt-[100%] flex justify-center">
+          <div className="mt-[20%] flex justify-center">
             <div className="flex flex-col gap-8 text-2xl">
               <button className="hover:text-secondary-500">SIGN IN</button>
               <ActionButton setSelectedPage={setSelectedPage}>
