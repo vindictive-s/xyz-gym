@@ -92,7 +92,7 @@ const Benefits = ({ setSelectedPage }: Props) => {
         </motion.div>
         <div className="items-centter mt-16 justify-between gap-20 md:mt-28 md:flex">
           <img
-            className="mx-auto max-w-md rounded-md object-cover"
+            className="mx-auto rounded-md object-cover sm:max-w-screen-sm md:max-w-md"
             alt="benefits-page-graphic"
             src={BenefitsPageGraphic}
           />
