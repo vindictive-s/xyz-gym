@@ -26,6 +26,7 @@ body,
     background: #211c51;
     border-radius: 5px;
     margin-inline: 10px;
+    margin-block: 10px;
   }
 
   /* Handle */
